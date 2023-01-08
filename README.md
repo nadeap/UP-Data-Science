@@ -7,7 +7,7 @@ There are 4 independent variables, such as:
 3. Rerata Lama Sekolah 
 4. Usia Harapan Hidup
 
-And dependent variables: the type of HDI/IPM. 
+And dependent variable: the type of HDI/IPM. 
 
 If you want to try this project, click this link:
 https://nadeap-up-data-science-app-4gv37y.streamlit.app/
