@@ -6,9 +6,10 @@ There are 4 independent variables, such as:
 2. Pengeluaran Per Kapita
 3. Rerata Lama Sekolah 
 4. Usia Harapan Hidup
-and dependent variables: the type of HDI/IPM. 
 
-if you want to try this project, click this link:
+And dependent variables: the type of HDI/IPM. 
+
+If you want to try this project, click this link:
 https://nadeap-up-data-science-app-4gv37y.streamlit.app/
 
 You can also run this project on localhost by installing some requirements (requirements.txt).
